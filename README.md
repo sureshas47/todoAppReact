@@ -1,4 +1,4 @@
-# javascriptTodoApp
+# Todo-app-reactJs
 
 ## features
  - add task
