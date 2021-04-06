@@ -2,7 +2,7 @@
 
 ##features
   -add task
-  -edit task
-  -delete task
-  -task mark as completed
-  -task mark as remaining 
+    -edit task
+    -delete task
+    -task mark as completed
+    -task mark as remaining 
