@@ -1,6 +1,6 @@
 # Todo-app-reactJs
 
-## features
+## Features
  - add task
   - edit task
   - delete task
