@@ -1,8 +1,6 @@
-#todo-app-react
+# javascriptTodoApp
 
-##features
-  -add task
-    -edit task
-    -delete task
-    -task mark as completed
-    -task mark as remaining 
+## features
+ - add todo
+  - edit todo
+  - del todo
